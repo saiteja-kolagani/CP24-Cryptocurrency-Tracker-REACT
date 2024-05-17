@@ -1,0 +1,37 @@
+/* Write your CSS code here */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  color: #00e7ff;
+  font-size: 24px;
+}
+.cryptocurrency-logo {
+  width: 800px;
+}
+.unorderd-list-container {
+  color: white;
+  list-style-type: none;
+  padding: 0px;
+  border: 4px solid #00e7ff;
+  width: 800px;
+  border-radius: 8px;
+}
+.list-head-section {
+  display: flex;
+  padding-inline: 15px;
+  background-color: #092e33;
+}
+.list-container-sub-head {
+  margin-left: auto;
+  display: flex;
+}
+.list-container-heading-2 {
+  margin-inline: 35px;
+}
+.list-container-heading-1 {
+  margin-left: 25px;
+}
